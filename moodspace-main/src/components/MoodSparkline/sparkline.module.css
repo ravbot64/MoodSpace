@@ -1,0 +1,9 @@
+.root {
+  @mixin light {
+    --chart-color: #000d7c;
+  }
+
+  @mixin dark {
+    --chart-color: #7776bc;
+  }
+}

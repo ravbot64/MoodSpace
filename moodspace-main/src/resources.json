@@ -1,0 +1,140 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Body Keeps the score",
+      "link": "https://www.amazon.in/Body-Keeps-Score-Bessel-Kolk/dp/0141978619/ref=sr_1_1?crid=2YFGO3LAE5R8D&dib=eyJ2IjoiMSJ9.LYZ1E5KRvmS0FQkya1LL1RU030XkkSCtSu1cHEYFmv_0QxqXCuiFoN5SPCBuwNUW092S93EQ5Q8DRUCwJLAZAT7xmO2AJaxpNyuCZtP9qZlTu53Tf-tqmdmtvnMzW_5q8PvMMyDKS1xMHVAeopZSrB-lN76HjqgoHjq1y-N31rirxYeags7k9OPnzU6dGFeT1IvG9FRsWRhxIfryuuhMN2U8skvtaZp2jhX0gHX-Idc.Gs9pp2ommNyry3l38uXZqb26QX1aqWr7uQvfIwttl7Q&dib_tag=se&keywords=body+keeps+the+score+book&qid=1710642876&sprefix=Body+kee%2Caps%2C201&sr=8-1",
+      "description": "Trauma comes in all forms, from near-death experiences to unexpected loss. Dr. Bessel van der Kolk uses recent scientific discoveries to reveal how trauma doesn’t just impact the mind, but also the body.",
+      "img": "./assets/bodykeepsthescore.jpeg",
+      "author": "Bessel van der Kolk"
+    },
+    {
+      "id": "2",
+      "title": "Hope and help your nerves: End Anxiety Now",
+      "link": "https://www.amazon.in/Hope-Help-Your-Nerves-Anxiety/dp/0593201906/ref=sr_1_1?crid=1RE3M0XNERLTV&dib=eyJ2IjoiMSJ9.e3nrg5PXlbTsPLRpwR7UwkETjNH0gEqlYzJj-VuPYz7GjHj071QN20LucGBJIEps.7v0bJOE7zQQ1DtiAOiqLmf6jsGww_tm2sQoiJ4kORYA&dib_tag=se&keywords=Hope+and+Help+for+Your+Nerves%3A+End+Anxiety+Now&nsdOptOutParam=true&qid=1710642919&sprefix=hope+and+help+for+your+nerves+end+anxiety+now%2Caps%2C227&sr=8-1",
+      "description": "Trauma comes in all forms, from near-death experiences to unexpected loss. Dr. Bessel van der Kolk uses recent scientific discoveries to reveal how trauma doesn’t just impact the mind, but also the body.",
+      "img": "./assets/bodykeepsthescore.jpeg",
+      "author": "Claire Weekes"
+    },
+    {
+      "id": "3",
+      "title": "Maybe you should talk to someone",
+      "link": "https://www.amazon.in/Maybe-You-Should-Talk-Someone/dp/9389143519/ref=sr_1_1?crid=3N5W3J0V2D4LL&dib=eyJ2IjoiMSJ9.5buhQas9qhRsUuQPdeWFfLp40SNSvvkjNsS0TsqSBLa2Tz5rvOdTnO62kurbmJb5CMW3Krjyzvbj8Ce2dHn-xmVujrQqLMaA5E4mtFV4pE9MwmdVrL7WRjPjB2T0cdAMSROxUoL_Ob56F4WZGdg6dr6LGl1FpZjki754SGdHCHpepBCE8QvXLZ9Wa3XRnplMfmZpOgk1dcijPR-ZcxdLxTiPklDLTSuwW2GeSULKqtQ.Q3F1u-SLjnj6znoo606lAZSSU0xG98lI-nbMI8vUh1Q&dib_tag=se&keywords=maybe+you+should+talk+to+someone&qid=1710643036&sprefix=Maybe+you+%2Caps%2C213&sr=8-1",
+      "description": "“Maybe You Should Talk to Someone” sprinkles in humor and honesty as Gottlieb shares her perspective as a practitioner and patient. Through her words, readers will be left with wisdom and hope about the human condition we all share. If you’re nervous about seeing a therapist, this book will help you see sessions through a counselor’s eyes and understand they are human just like you.",
+      "img": "./assets/7habits.jpeg",
+      "author": "Lori Gottlieb"
+    },
+    {
+      "id": "4",
+      "title": "Tuesdays with Morrie",
+      "link": "https://www.amazon.in/Tuesdays-Morrie-greatest-lesson-Paperback/dp/0751527378/ref=sr_1_1?crid=1QR2P8E29QQFO&dib=eyJ2IjoiMSJ9.GyQCadVbTTIGnp98-HkZiM8xU01oMxLbtW25vYP52IFoa4ExJg0qHLwgp5KHCptbFZv6ELYvRQZdkRLdIflrvcCBhxWnSIo1Bol53vSbFAMEz1LmxTQVIXTl3ATyz6h3cA7KlylkENhohULfNHSqN5DVsCaY_FU1z5B8oYNGFT6Wnw_yADSZt6VMG2oenveTb2eW2hnLHuWErebjGLI5RhYBHqEHVseWUgFXYtKWmB0.xhP0WOpZVSJvCPuTCoWESl6mWOVEsnlOreOXpw3Nj9Q&dib_tag=se&keywords=tuesdays+with+morrie&qid=1710643176&sprefix=Tuesd%2Caps%2C229&sr=8-1",
+      "description": "Maybe it was a grandparent, or a teacher or a colleague. Someone older, patient and wise, who understood you when you were young and searching, and gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago.Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded. Wouldn't you like to see that person again, ask the bigger questions that still haunt you? Mitch Albom had that second chance. He rediscovered Morrie in the last months of the older man's life. Knowing he was dying of ALS - or motor neurone disease - MItch visited Morrie in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final 'class': lessons in how to live.TUESDAYS WITH MORRIE is a magical chronicle of their time together, through which Mitch shares Morrie's lasting gift with the world.",
+      "img": "./assets/tuesdays.png",
+      "author": "Mitch Albom"
+    },
+    {
+      "id": "5",
+      "title": "7 Habits of Highly Effective People",
+      "link": "https://www.amazon.in/Habits-Highly-Effective-People/dp/1471195708/ref=sr_1_3?crid=1SDUUZR6L6XT8&dib=eyJ2IjoiMSJ9.gmzPWzaXPel_w7CbOqDUhTCupQFIsCH4tUr_ep-clRFGvGgjfXOWKqnF6uC33C0WmprlGaRe7Bufx4J1VhYppow6HP5EeXtpQZNMn4glBpvA0SAtmV6sU8ETQ1-pwPVvwq7RHvdWz1f87TE4NklUKKUCAas88rVYsWL8y-ez_OVsVa3pOSx8vf7GfoWgCGAlndCpQteMz6_YqlwVKY_xSla1u6kyB0q-YHfEkiCoymM.TLE-UC-CgWrmdwx2bW404DryiAhBHZ-re8GOsQfUgRI&dib_tag=se&keywords=7+habits+of+highly+effective+people&qid=1710643336&sprefix=7+habits+of+highly+%2Caps%2C209&sr=8-3",
+      "description": "The 7 Habits of Highly Effective People, first published in 1989, is a business and self-help book written by Stephen R. Covey. Covey defines effectiveness as the balance of obtaining desirable results with caring for that which produces those results.",
+      "img": "7habits.jpeg",
+      "author": "Stephen Covey"
+    },
+    {
+      "id": "6",
+      "title": "The Dialectical Behavior Therapy Skills Workbook",
+      "link": "https://www.amazon.in/Dialectical-Behavior-Therapy-Skills-Workbook/dp/1684034582/ref=sr_1_3?crid=17Z1DPFAXDZYG&dib=eyJ2IjoiMSJ9.D8GFCy5l_fJzw2iD8relmnbTepMml6pggn-2YJ9x5-KaK0pIyqWlH8DXxF2C2f05Q0AAQI8w_RSRSFxyrp2PvNBCQjixzAEhkXAu7lrX13o9YVidRoF5_920JooAZbljUGDzW9Q_jXCuwrJuwDajK6zVM0ZT2UgsXRkbD_m7ObVR9K9ulO4vwJx_WOluceRV1Jb70AXYhgmPCDr768REvU0lgf3pE95qem4vUvPQ0iU.r4skH4iXlJIH7uW50FAy0ezP5rdSCkdKZpK8wuJYPPw&dib_tag=se&keywords=The+Dialectical+Behavior+Therapy+Skills+Workbook&qid=1710643933&sprefix=the+dialectical+behavior+therapy+skills+workbook+%2Caps%2C258&sr=8-3",
+      "description": "The Dialectical Behavior Therapy Skills Workbook, a collaborative effort from three esteemed authors, offers straightforward, step-by-step exercises for learning these concepts and putting them to work for real and lasting change. Start by working on the introductory exercises and, after making progress, move on to the advanced-skills chapters. Whether you are a professional or a general reader, whether you use this book to support work done in therapy or as the basis for self-help, you'll benefit from this clear and practical guide to better managing your emotions.",
+      "img": "dialectical.jpeg",
+      "author": "Jeffrey Brantley"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "Encouraging Wellness in a Remote Workplace",
+      "link": "https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5"
+    },
+    {
+      "id": "2",
+      "title": "Its okay not to be okay",
+      "link": "https://dev.to/andrew/its-okay-to-not-be-okay"
+    },
+    {
+      "id": "3",
+      "title": "Hidden cost of happiness",
+      "link": "https://markmanson.net/hidden-costs-of-happiness"
+    },
+    {
+      "id": "4",
+      "title": "25 Things to do when depressed",
+      "link": "http://lifeofamua.com/2020/06/07/what-to-do-when-depressed/"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "1",
+      "name": "Sanjivini Society for mental Health",
+      "link": "https://www.sanjivinisociety.org/",
+      "description": "Established in 1976, Sanjivini is a registered non-profit voluntary organization that has been addressing the mental health needs of the community for over four decades."
+    },
+    {
+      "id": "2",
+      "name": "Aasra",
+      "link": "http://aasra.info/",
+      "description": "Aasra is a crisis intervention centre for the lonely, distressed and suicidal. We aim to help prevent and manage mental illness by providing voluntary, professional and essentially confidential care and support to the depressed & the suicidal."
+    },
+    {
+      "id": "3",
+      "name": "Vandrevala",
+      "link": "https://www.vandrevalafoundation.com/",
+      "description": "Vandrevala Foundation launched a mental health helpline in India in 2009 to offer free psychological counselling and crisis mediation to anyone who is experiencing distress due to depression, trauma, mood disorders, chronic illness, and relationship conflict, to name a few."
+    },
+    {
+      "id": "4",
+      "name": "Mann Talks",
+      "link": "https://www.manntalks.org/",
+      "description": "Mental health is integral and essential to our health. We focus on empowering individuals to take charge of their mental health by offering free and holistic mental health support. Mann Talks is an inclusive platform and we encourage individuals from across experiences, backgrounds and abilities to use the services available."
+    },
+    {
+      "id": "5",
+      "name": "MPowerMinds",
+      "link": "https://mpowerminds.com/index.php/oneonone",
+      "description": "In order to deal with the mental health concerns arising out of the pandemic and subsequent lockdown, the BMC and Mpower 1 on 1, along with the Government of Maharashtra started a toll-free, 24*7 helpline, that helps individuals sail through the tough times by addressing their concerns."
+    }
+  ],
+  "helpline": [
+    {
+      "name": "Vandrevala Foundation",
+      "no": "+91 999 966 6555",
+      "type": "Emergency Helpline"
+    },
+    {
+      "name": "Lifeline Foundation",
+      "no": "+91 3340447437",
+      "type": "Crisis Helpline"
+    },
+    {
+      "name": "Sneha Foundation",
+      "no": "+919167535765",
+      "type": "Crisis Helpline"
+    },
+    { "name": "iCall", "no": "022-25521111", "type": "Psychological Helpline" },
+    {
+      "name": "Mann Talks",
+      "no": "+91 868 613 9139",
+      "type": "Mental Health Support"
+    },
+    {
+      "name": "Jeevan Aastha Helpline",
+      "no": "18002333330",
+      "type": "Suicide And Stress Helpline"
+    },
+    { "name": "Sumaitri", "no": "011-46018404", "type": "Suicide Helpline" },
+    {
+      "name": "Parivartan Counselling",
+      "no": "7676602602",
+      "type": "Counselling Helpline"
+    }
+  ]
+}

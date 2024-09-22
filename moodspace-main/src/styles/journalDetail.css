@@ -1,0 +1,15 @@
+.journal-entry {
+  background-color: #f8f8f8; /* Subtle background */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  margin-bottom: 20px;
+}
+.journal-entry p {
+  margin-bottom: 15px;
+}
+
+.journal-entry ul,
+.journal-entry ol {
+  margin-bottom: 10px;
+}
